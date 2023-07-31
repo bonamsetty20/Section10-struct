@@ -1,0 +1,8 @@
+C:\Users\bonam\OneDrive\Desktop\Basicapp\AssistedProject\Section10-struct\Section10-struct\bin\Debug\Section10-struct.exe.config
+C:\Users\bonam\OneDrive\Desktop\Basicapp\AssistedProject\Section10-struct\Section10-struct\bin\Debug\Section10-struct.exe
+C:\Users\bonam\OneDrive\Desktop\Basicapp\AssistedProject\Section10-struct\Section10-struct\bin\Debug\Section10-struct.pdb
+C:\Users\bonam\OneDrive\Desktop\Basicapp\AssistedProject\Section10-struct\Section10-struct\obj\Debug\Section10-struct.csproj.AssemblyReference.cache
+C:\Users\bonam\OneDrive\Desktop\Basicapp\AssistedProject\Section10-struct\Section10-struct\obj\Debug\Section10-struct.csproj.SuggestedBindingRedirects.cache
+C:\Users\bonam\OneDrive\Desktop\Basicapp\AssistedProject\Section10-struct\Section10-struct\obj\Debug\Section10-struct.csproj.CoreCompileInputs.cache
+C:\Users\bonam\OneDrive\Desktop\Basicapp\AssistedProject\Section10-struct\Section10-struct\obj\Debug\Section10-struct.exe
+C:\Users\bonam\OneDrive\Desktop\Basicapp\AssistedProject\Section10-struct\Section10-struct\obj\Debug\Section10-struct.pdb
